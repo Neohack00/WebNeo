@@ -1,0 +1,27 @@
+
+
+
+Domän:
+Proffsionel sida om mig.
+
+Sidor:
+Index.html
+- Välkomst meddelanden
+- Senaste Nyheter/events Display
+
+AboutMe.html
+- Om Neo Bylock Hulterstedt
+    - Kort om mig
+    - Mina Styrkor
+    - Hobbies och fritid
+
+Contact.html
+- Kontakt Uppgifter
+
+Grund design:
+En header med sidans namn och en unik bakgrunds färg.
+Ska ha en grå navigation bar.
+Body ska vara luftig på kanterna genom ha två blanka kolummer på sidan av body.
+Altnativt ha hel färgade kanter vid sidorna av centala body kolummen. Centrala kolummen är vit.
+Kan föremkomma bilder i body och header.
+Vi ska ha en footer.
