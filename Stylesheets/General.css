@@ -1,0 +1,25 @@
+
+header{
+    display: block;
+    padding: 100px;
+    background-size: 100%;
+
+}
+.header-title h1{
+    display: block;
+    font-size: 80px;
+    text-align: center;
+}
+
+
+.col-lg-2{
+    background-color:white;
+}
+.col-lg-8{
+    background-color:white;
+
+}
+
+.Body-text{
+    margin: 10px ;
+}

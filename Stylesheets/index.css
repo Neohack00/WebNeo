@@ -1,15 +1,7 @@
+/* 
 header{
-    background-image: url(../Media/Kodbagarna.png) ;
-    background: orange; 
-    display: block;
-    padding: 100px;
-    background-size: 100%;
-
+    color: orange;
 }
-.Header_title h1{
+.header_title h1{
     color: white;
-    display: block;
-    font-size: 80px;
-    text-align: center;
-    background: orange;
-}
+} */
