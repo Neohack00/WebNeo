@@ -1,7 +1,16 @@
-/* 
-header{
-    color: orange;
+/* Vill i denna css ska specifik ändra detaljer unikt för index som färger och sånt. 
+*/
+#header_index{
+    background-color: orange;
+    
 }
-.header_title h1{
+#title_index h1{
     color: white;
+    background: orange;
+
+} 
+/* @media screen and (max-width: 557px){
+    #title_index h1{
+    vill anordna att texten anpassar ner utan ändras dess storlek
+    }
 } */

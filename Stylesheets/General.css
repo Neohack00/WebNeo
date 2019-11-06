@@ -1,14 +1,15 @@
-
+/*Vill att denna css ska definera stilen som alla sidor ha gemensamt */
 header{
-    display: block;
     padding: 100px;
-    background-size: 100%;
+    border: 10px black;
 
 }
-.header-title h1{
+.header_title h1{
     display: block;
     font-size: 80px;
     text-align: center;
+    color: white;
+    border: 10px;
 }
 
 
@@ -20,6 +21,6 @@ header{
 
 }
 
-.Body-text{
+.body-text{
     margin: 10px ;
 }
